@@ -1,0 +1,126 @@
+{
+    "DataList": [
+        {
+            "coordinates": [
+                {
+                    "pt_x": 713,
+                    "pt_y": 186,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 729,
+                    "pt_y": 178,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 706,
+                    "pt_y": 174,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 746,
+                    "pt_y": 198,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 0,
+                    "pt_y": 0,
+                    "flag": 0
+                },
+                {
+                    "pt_x": 762,
+                    "pt_y": 265,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 672,
+                    "pt_y": 236,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 836,
+                    "pt_y": 303,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 572,
+                    "pt_y": 237,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 911,
+                    "pt_y": 340,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 499,
+                    "pt_y": 236,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 715,
+                    "pt_y": 404,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 631,
+                    "pt_y": 389,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 694,
+                    "pt_y": 538,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 648,
+                    "pt_y": 536,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 696,
+                    "pt_y": 630,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 658,
+                    "pt_y": 629,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 726,
+                    "pt_y": 148,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 974,
+                    "pt_y": 332,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 458,
+                    "pt_y": 210,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 703,
+                    "pt_y": 670,
+                    "flag": 1
+                },
+                {
+                    "pt_x": 645,
+                    "pt_y": 666,
+                    "flag": 1
+                }
+            ],
+            "sex": "Female",
+            "distance": "normal",
+            "illumination": "day",
+            "id_in_image": 1,
+            "collecting environment": "Indoor",
+            "pose of human body": "Normal-dancing-pose",
+            "shooting angle": "Front",
+            "age": "adult"
+        }
+    ]
+}
